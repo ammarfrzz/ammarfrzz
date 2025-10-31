@@ -1,5 +1,4 @@
-# 💫 About Me:
-<!DOCTYPE html><br><html lang="en"><br><head><br>  <meta charset="UTF-8"><br>  <meta name="viewport" content="width=device-width, initial-scale=1.0"><br>  <meta http-equiv="X-UA-Compatible" content="ie=edge"><br>  <title>Document</title><br></head><br><body><br><br><h1> Hallo Aku Ammar Fairuz W. Seorang Web Developer</h1><br>  <br></body><br></html>
+Hallo Aku Ammar Fairuz W. Seorang Software Engineering
 
 
 ## 🌐 Socials:
