@@ -1,4 +1,5 @@
-Hallo Aku Ammar Fairuz W. Seorang Software Engineering
+~ Hallo Aku Ammar Fairuz W. 
+Seorang Software Engineering ~
 
 
 ## 🌐 Socials:
